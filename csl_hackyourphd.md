@@ -504,6 +504,6 @@ Organisation du trello :
 
 *   utilisation de CSL : par Mendeley, Papers,
 
-*   lien avec LaTex : l'une des meilleures solutions jusqu'à présent était Better Bib(La)Tex, mais pour l'instant sa compatibilité avec Zotero v5 n'est pas assurée.
+*   lien avec LaTeX : l'une des meilleures solutions jusqu'à présent était Better Bib(La)Tex, mais pour l'instant sa compatibilité avec Zotero v5 n'est pas assurée.
 
-Document réalisé par Frédérique Flamerie (Blog Zotero Francophone)
+
